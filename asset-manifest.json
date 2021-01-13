@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99a4674a.chunk.css",
+    "main.js": "/static/js/main.09758362.chunk.js",
+    "main.js.map": "/static/js/main.09758362.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a7698012.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a7698012.js.map",
+    "static/css/2.da421de5.chunk.css": "/static/css/2.da421de5.chunk.css",
+    "static/js/2.66ec2ab7.chunk.js": "/static/js/2.66ec2ab7.chunk.js",
+    "static/js/2.66ec2ab7.chunk.js.map": "/static/js/2.66ec2ab7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9cb12b404985dfaa321f26924720128b.js": "/precache-manifest.9cb12b404985dfaa321f26924720128b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.da421de5.chunk.css.map": "/static/css/2.da421de5.chunk.css.map",
+    "static/css/main.99a4674a.chunk.css.map": "/static/css/main.99a4674a.chunk.css.map",
+    "static/js/2.66ec2ab7.chunk.js.LICENSE.txt": "/static/js/2.66ec2ab7.chunk.js.LICENSE.txt",
+    "static/media/arrow-left-2-icon.07662656.svg": "/static/media/arrow-left-2-icon.07662656.svg",
+    "static/media/arrow-right-2-icon.06950feb.svg": "/static/media/arrow-right-2-icon.06950feb.svg",
+    "static/media/checkbox-circle.4ed81a3a.svg": "/static/media/checkbox-circle.4ed81a3a.svg",
+    "static/media/dot-pattern.967d0acb.svg": "/static/media/dot-pattern.967d0acb.svg",
+    "static/media/facebook-icon.7e251c1c.svg": "/static/media/facebook-icon.7e251c1c.svg",
+    "static/media/menu.svg": "/static/media/menu.ca394ec8.svg",
+    "static/media/quotes-l.717d9ffc.svg": "/static/media/quotes-l.717d9ffc.svg",
+    "static/media/quotes-r.6247ecd0.svg": "/static/media/quotes-r.6247ecd0.svg",
+    "static/media/sent_messages_.svg": "/static/media/sent_messages_.b679f8d2.svg",
+    "static/media/svg-decorator-blob-4.4bdeb3fe.svg": "/static/media/svg-decorator-blob-4.4bdeb3fe.svg",
+    "static/media/svg-decorator-blob-5.4c448f17.svg": "/static/media/svg-decorator-blob-5.4c448f17.svg",
+    "static/media/svg-decorator-blob-9.4bdeb3fe.svg": "/static/media/svg-decorator-blob-9.4bdeb3fe.svg",
+    "static/media/twitter-icon.39821cf4.svg": "/static/media/twitter-icon.39821cf4.svg",
+    "static/media/x.svg": "/static/media/x.b0200bf7.svg",
+    "static/media/youtube-icon.9629dd6a.svg": "/static/media/youtube-icon.9629dd6a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7698012.js",
+    "static/css/2.da421de5.chunk.css",
+    "static/js/2.66ec2ab7.chunk.js",
+    "static/css/main.99a4674a.chunk.css",
+    "static/js/main.09758362.chunk.js"
+  ]
+}
